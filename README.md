@@ -1,4 +1,4 @@
-# Info
+# ‼️ Info
 This is a copy of my readme.md from my other account. And you'll probably have one question:
 - you fucking thief! 
 - That's not true, I lost access to my past github account. This is where I will continue to post my repositories and also clone those that were left in my previous account.
